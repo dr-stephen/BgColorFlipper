@@ -4,6 +4,7 @@
 <img src="https://github.com/dr-stephen/BgColorFlipper/blob/main/screenshots/Simple.png">
 <br>
 
+<hr>
 <p>The next Background Color Flipper has a button - Get New Hex. 
 <br>Click it to get another hex color</p>
 <img src="https://github.com/dr-stephen/BgColorFlipper/blob/main/screenshots/Hex.png">
